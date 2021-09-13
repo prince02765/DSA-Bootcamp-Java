@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/lectures/10-binary search/10-binary search.iml" filepath="$PROJECT_DIR$/lectures/10-binary search/10-binary search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/11-sorting/11-sorting.iml" filepath="$PROJECT_DIR$/lectures/11-sorting/11-sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/5-first-java-program/5-first-java-program.iml" filepath="$PROJECT_DIR$/lectures/5-first-java-program/5-first-java-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/7-methods/7-methods.iml" filepath="$PROJECT_DIR$/lectures/7-methods/7-methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/8-arrays/8-arrays.iml" filepath="$PROJECT_DIR$/lectures/8-arrays/8-arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/9-linear search/9-linear search.iml" filepath="$PROJECT_DIR$/lectures/9-linear search/9-linear search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA-Bootcamp-Java.iml" filepath="$PROJECT_DIR$/.idea/DSA-Bootcamp-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/6-conditions-loops/code/code.iml" filepath="$PROJECT_DIR$/lectures/6-conditions-loops/code/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/5-first-java-program/first-idea-program/first-idea-program.iml" filepath="$PROJECT_DIR$/lectures/5-first-java-program/first-idea-program/first-idea-program.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lectures/6-conditions-loops/switch/switch.iml" filepath="$PROJECT_DIR$/lectures/6-conditions-loops/switch/switch.iml" />
+    </modules>
+  </component>
+</project>
