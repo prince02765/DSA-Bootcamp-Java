@@ -11,7 +11,7 @@
   - [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) Done
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/) Done
 - [Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) Done
-- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) 
+- [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) Done
 - [Arranging Coins(Easy)](https://leetcode.com/problems/arranging-coins/)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/)
@@ -41,17 +41,17 @@
 - [Find a Peak Element II](https://leetcode.com/problems/find-a-peak-element-ii/)
 - [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) Done
 - [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) Done
-- [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/)
-- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+- [Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/) Done
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) Done
+- [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) 
 - [4 Sum](https://leetcode.com/problems/4sum/)
 
 ## Hard
-- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/)
-- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
-- [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/)
-- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
-- [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
-- [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/)
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) Done
+- [Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/) Done
+- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/) 
+- [Book allocation](https://www.geeksforgeeks.org/allocate-minimum-number-pages/) 
+- [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) Done
+- [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) Done
+- [Count smaller number after Self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) 
 - [Divide Chocolate Problem](https://curiouschild.github.io/leetcode/2019/06/21/divide-chocolate.html)
