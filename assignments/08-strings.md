@@ -4,7 +4,7 @@
 
 ## Easy
 
-- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
+- [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/) Done
 - [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
 - [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
@@ -29,20 +29,20 @@
 
 ## Medium 
 - [Jump Game VII](https://leetcode.com/problems/jump-game-vii/)
-- [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/)
-- [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/)
+- [Split Two Strings to Make Palindrome](https://leetcode.com/problems/split-two-strings-to-make-palindrome/) Done
+- [Number of Ways to Split a String](https://leetcode.com/problems/number-of-ways-to-split-a-string/) Done
 - [Sentence Similarity III](https://leetcode.com/problems/sentence-similarity-iii/)
-- [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
-- [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
-- [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
-- [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
-- [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
-- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
+- [Repeated String Match](https://leetcode.com/problems/repeated-string-match/) Done
+- [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) Done
+- [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/) Done
+- [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/) Done
+- [Multiply Strings](https://leetcode.com/problems/multiply-strings/) Done
+- [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/) Done
 - [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
-- [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)
-- [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/)
+- [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) Done
+- [Count Number of Homogenous Substrings](https://leetcode.com/problems/count-number-of-homogenous-substrings/) 
 - [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/)
-- [Shifting Letters](https://leetcode.com/problems/shifting-letters/)
+- [Shifting Letters](https://leetcode.com/problems/shifting-letters/) Done
 - [Minimum Time Difference](https://leetcode.com/problems/minimum-time-difference/)
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
 - [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
@@ -51,10 +51,10 @@
 
 ## Hard 
 
-- [Valid Number](https://leetcode.com/problems/valid-number/)
-- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+- [Valid Number](https://leetcode.com/problems/valid-number/) Done
+- [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/) 
 - [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/)
-- [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
+- [Basic Calculator](https://leetcode.com/problems/basic-calculator/) Done
 - [Minimum Number of Operations to Make String Sorted](https://leetcode.com/problems/minimum-number-of-operations-to-make-string-sorted/)
 - [Check If String Is Transformable With Substring Sort Operations](https://leetcode.com/problems/check-if-string-is-transformable-with-substring-sort-operations/)
 - [Orderly Queue](https://leetcode.com/problems/orderly-queue/)
